@@ -1,9 +1,5 @@
 /******************************************************************************
  *  Michael Volynskiy | EMPLID: 23627478
- *
- *  Reads in a text file and for each line verifies whether the word has
- *  unique characters and prints each word in order of sorted characters
- *  alongside the boolean value.
  * 
  * Reads in a text file and for each word: all numbers and special characters 
  * are replaced with an empty string, and lowercased. If any of the words 
