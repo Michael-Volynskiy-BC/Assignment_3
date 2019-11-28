@@ -14,9 +14,9 @@ Brooklyn College
 
 **Sample Output:** 
 
-`100: frog`
-`94: dog`
-`43: cog`
+`100: frog`\
+`94: dog`\
+`43: cog`\
 `20: bog`
 
 ### Extra Objectives:
